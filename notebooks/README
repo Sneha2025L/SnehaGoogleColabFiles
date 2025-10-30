@@ -1,0 +1,9 @@
+## Run this notebook in Google Colab
+
+Click the badge above or open in Colab:
+https://colab.research.google.com/github/Sneha2025L/SnehaGoogleColabFiles/blob/main/notebooks/IcrecreamAnalysis/Copy_of_Getting_started_with_google_colab_ai.ipynb
+
+Steps to run:
+1. Open the notebook in Colab.
+2. Runtime → Change runtime type → Select GPU (optional).
+3. Run the cells top-to-bottom.
