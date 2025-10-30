@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sneha2025L/SnehaGoogleColabFiles/blob/main/notebooks/IcrecreamAnalysis/Copy_of_Getting_started_with_google_colab_ai.ipynb)
+
+
 Down load files from https://www.kaggle.com/datasets/tysonpo/ice-cream-dataset?resource=download
 Refer https://colab.research.google.com/
 Refer https://www.kaggle.com/datasets/tysonpo/ice-cream-dataset
